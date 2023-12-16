@@ -1,0 +1,42 @@
+h1 {
+    font-family: 'Inter', sans-serif;
+
+}
+
+/* #top-section {
+    width: 1623px;
+    height: 469px;
+    position: absolute;
+    top: 1795px;
+    left: 58px;
+    /* border: 2px solid #333; /* Optional: Add a border for better visibility */
+    /* padding: 10px; Optional: Add padding for better visual appeal */ 
+/* } */ 
+
+
+#top-section h1 {
+    text-decoration: underline; 
+}
+
+
+
+#top-section {
+    border: 2px solid #333; 
+    padding: 10px; 
+}   
+#image-section h1 {
+    text-decoration: underline; 
+}
+
+#top-section a {
+    color: black; 
+}
+#image-section a{
+    color: black;
+
+}
+
+#trivia-section h1{
+    text-decoration: underline;
+
+}
